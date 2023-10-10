@@ -1,1 +1,5 @@
 "# voorbeeldMagWeg" 
+
+## subtitel 
+
+### subtitel2
